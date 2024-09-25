@@ -1,6 +1,6 @@
 # NFT Minting Platform
 
-This project is a decentralized platform for minting, buying, and selling NFTs, built on Solidity and Hardhat. It supports seamless interaction with the Ethereum blockchain, providing features such as minting NFTs, marketplace browsing, and wallet integration via MetaMask.
+This project is a decentralized platform for minting, buying, and selling NFTs, built on Solidity and Hardhat. 
 
 ## Features
 - **Mint NFTs**: Create unique NFTs.
@@ -25,3 +25,8 @@ npx hardhat
 - Hardhat.
 - JavaScript.
 - MetaMask.
+  
+## Contacts
+- **LinkedIn**: https://www.linkedin.com/in/rayyan-uddin/
+- **Twitter**: 
+- **Email**: rayyanuddin007@gmail.com 
