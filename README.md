@@ -13,7 +13,12 @@ This project is a decentralized platform for minting, buying, and selling NFTs, 
    git clone https://github.com/Rayyan-Uddin/NFT-Minting-Platform.git
    ```
 2. Install dependencies:
-```npm install
+```bash
+npm install
+```
+3. Install Hardhat:
+```bash
+npx hardhat
 ```
 ## Tech Stack
 - Solidity.
