@@ -24,4 +24,4 @@ npx hardhat
 - Solidity.
 - Hardhat.
 - JavaScript.
--MetaMask
+- MetaMask.
