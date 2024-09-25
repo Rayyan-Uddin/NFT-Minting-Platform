@@ -1,39 +1,22 @@
-# NFT Marketplace
+# NFT Minting Platform
 
-## Table of Contents
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Smart Contracts](#smart-contracts)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## About the Project
-This project is a decentralized NFT marketplace where users can mint, buy, and sell NFTs. The platform is built using Solidity and Hardhat and allows users to interact with the Ethereum blockchain seamlessly.
+This project is a decentralized platform for minting, buying, and selling NFTs, built on Solidity and Hardhat. It supports seamless interaction with the Ethereum blockchain, providing features such as minting NFTs, marketplace browsing, and wallet integration via MetaMask.
 
 ## Features
-- **Mint NFTs:** Users can create their own NFTs.
-- **Buy/Sell NFTs:** Users can buy and sell NFTs on the marketplace.
-- **Browse Marketplace:** Users can explore available NFTs.
-- **Wallet Integration:** Supports MetaMask for transactions.
+- **Mint NFTs**: Create unique NFTs.
+- **Buy/Sell NFTs**: Trade NFTs directly on the platform.
+- **MetaMask Integration**: Enables secure transactions.
 
-## Getting Started
-
-### Prerequisites
-Ensure you have the following installed:
-
-- [Node.js](https://nodejs.org/) (v14 or higher)
-- [Hardhat](https://hardhat.org/)
-- [MetaMask Wallet](https://metamask.io/)
-- [Git](https://git-scm.com/)
-
-### Installation
+## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<USERNAME>/<REPO_NAME>.git
+   git clone https://github.com/Rayyan-Uddin/NFT-Minting-Platform.git
+   ```
+2. Install dependencies:
+```npm install
+```
+## Tech Stack
+- Solidity.
+- Hardhat.
+- JavaScript.
+-MetaMask
